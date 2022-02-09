@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>April`s Idea</title>
+  
+  <subtitle>Hallo Ming</subtitle>
+  <link href="https://aprilming.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://aprilming.github.io/"/>
+  <updated>2022-02-09T08:33:55.796Z</updated>
+  <id>https://aprilming.github.io/</id>
+  
+  <author>
+    <name>April</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hallo</title>
+    <link href="https://aprilming.github.io/2022/02/09/Hallo/"/>
+    <id>https://aprilming.github.io/2022/02/09/Hallo/</id>
+    <published>2022-02-09T07:56:36.000Z</published>
+    <updated>2022-02-09T08:33:55.796Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到米奇妙妙屋！"><a href="#欢迎来到米奇妙妙屋！" class="headerlink" title="欢迎来到米奇妙妙屋！"></a>欢迎来到米奇妙妙屋！</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;欢迎来到米奇妙妙屋！&quot;&gt;&lt;a href=&quot;#欢迎来到米奇妙妙屋！&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到米奇妙妙屋！&quot;&gt;&lt;/a&gt;欢迎来到米奇妙妙屋！&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="tag1" scheme="https://aprilming.github.io/tags/tag1/"/>
+    
+    <category term="tag2" scheme="https://aprilming.github.io/tags/tag2/"/>
+    
+    <category term="tag3" scheme="https://aprilming.github.io/tags/tag3/"/>
+    
+  </entry>
+  
+</feed>
